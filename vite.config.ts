@@ -4,7 +4,7 @@ import path from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/sivapadmanathan6-svg/',
+  base: '/sivapadmanathan6/',
 
   plugins: [react(), tailwindcss()],
 
